@@ -10,4 +10,6 @@ Molte informazioni vengono gestite dinamicamente dal server senza che i dati ven
 
 Do More non è solo un app di sviluppo personale, ma è un tracking della propria identità, consente con l'aiuto dell'intelligenza artificiale di sapere quali progessi si stanno facendo, quali sono le debolezze e come migliorare degli aspetti della propria vita, non dando delle scadenze all'utente ma facendo in modo che lo stesso interagisca con l'app di propria volonta e possa facilmente tenere traccia di successi e fallimenti. A seconda dell'abbonamento scelto l'utente ha determinate feature e si ha sempre la possibilità di poter fare un upgrade o downgrade del piano scelto.
 
+
+***sto editando i video da caricare per mostrare tutte le funzionalità dell'app***
 ![ProjectStructure](ProjectStructure)
