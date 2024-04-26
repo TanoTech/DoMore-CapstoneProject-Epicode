@@ -14,11 +14,11 @@ Do More non è solo un app di sviluppo personale, ma è un tracking della propri
 ## Versione mobile
 [![Video 1](https://img.youtube.com/vi/NvuRln0vFR8/0.jpg)](https://www.youtube.com/watch?v=NvuRln0vFR8)
 
-## Account premium, chatbot AI e fattura email
+## Account free e plus, pannello admin e recupero password
 [![Video 2](https://img.youtube.com/vi/I1pkT46xcDc/0.jpg)](https://www.youtube.com/watch?v=I1pkT46xcDc)
 
 ## Attivazione account, referral link e pulizia stringhe
 [![Video 3](https://img.youtube.com/vi/Xo-pcyDiiPQ/0.jpg)](https://www.youtube.com/watch?v=Xo-pcyDiiPQ)
 
-## Account free e plus, pannello admin e recupero password
+## Account premium, chatbot AI e fattura email
 [![Video 4](https://img.youtube.com/vi/9LIM30F3kcs/0.jpg)](https://www.youtube.com/watch?v=9LIM30F3kcs)
